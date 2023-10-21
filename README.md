@@ -29,3 +29,20 @@ Acknowledgments
 
 The European Soccer Database used in this project is sourced from https://www.kaggle.com/datasets/hugomathien/soccer
 Special thanks to the open-source community of Kaggle for making valuable data available for analysis.
+
+Data Analysis with SQL on European Soccer Database
+
+- Conducted comprehensive data analysis using SQL on a European Soccer Database to extract valuable insights and
+ trends from player statistics, team performance, and match results.
+
+- Wrote complex SQL queries to retrieve and aggregate data for in-depth analysis.
+
+- Performed data cleaning and preprocessing to ensure data accuracy and consistency.
+
+- Analyzed player performance, team rankings, and match outcomes to identify patterns and trends.
+
+- Generated meaningful visualizations and reports to present the findings effectively.
+
+- Identified key performance metrics that significantly correlate with match outcomes, providing actionable insights for team strategies.
+
+- Tools and Technologies: SQL, Data Visualization
